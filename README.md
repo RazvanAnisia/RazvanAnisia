@@ -1,1 +1,2 @@
-Hi there I'm Razvan Anisia.
+Hello there!
+I'm Raz,a JavaScript Developer!:rocket:
