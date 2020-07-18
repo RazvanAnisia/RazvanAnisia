@@ -1,10 +1,8 @@
-Hello there!:wave: <br> 
+Hello there! :wave: <br>
 
-I'm Raz,a passionate web developer with an eye for detail. 🧐 <br>
-My speciality is Javascript,I especially enjoy working with modern technologies like React, Redux, Typescript, Docker and Node.js. 
+I'm Raz, fullstack developer with an eye for detail. 🧐 <br>
+My speciality is <strong style='color:#ffd500'>Javascript</strong>, I especially enjoy working with modern technologies like <strong style='color:#6000cf'>React, Redux, Typescript, Docker and Node.js </strong> 💻
 
-Love taking on new challanges and experimenting with new frameworks and languages.
+💓 taking on new challenges and experimenting with new frameworks and languages.
 
-Checkout my personal website 🚀 www.razvan-anisia.com 
-
-<img height="80" src="https://i.imgur.com/CSHoXKR.png" />
+<img height="40" style="margin-bottom:-13px" src="https://i.imgur.com/CSHoXKR.png" /> <span> Checkout <a style='color:#6000cf'>www.razvan-anisia.com</a> 🚀 </span>
