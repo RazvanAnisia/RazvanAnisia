@@ -7,4 +7,4 @@ Love taking on new challanges and experimenting with new frameworks and language
 
 Checkout my personal website 🚀 www.razvan-anisia.com 
 
-<img src="https://i.imgur.com/CSHoXKR.png" />
+<img style="height:80px" src="https://i.imgur.com/CSHoXKR.png" />
