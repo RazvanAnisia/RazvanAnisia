@@ -5,6 +5,5 @@ My speciality is <strong>Javascript</strong>, I especially enjoy working with mo
 
 💓 taking on new challenges and experimenting with new frameworks and languages.
 
-<span> Checkout <a style='color:#6000cf' href='https://razvan-anisia.com/'>razvan-anisia.com</a> 🚀 </span>
 
 <img height="50" src="https://i.imgur.com/CSHoXKR.png" />
